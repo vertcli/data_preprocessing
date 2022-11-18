@@ -1,5 +1,3 @@
-"""Main module."""
-
 import pandas as pd
 from typing import Sequence, Dict, Optional, Tuple
 
